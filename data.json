@@ -1,0 +1,39 @@
+[
+
+{
+    "id" : 1,
+    "title" : "Web Devlopment",
+    "image" : "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "description" : "Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services."
+},
+{
+    "id" : 2,
+    "title" : "App Devlopment",
+    "image" : "https://images.unsplash.com/photo-1609921141835-710b7fa6e438?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "description" : "Mobile application development is the process of creating software applications that run on a mobile device, and a typical mobile application utilizes a network connection to work with remote computing resources."
+},
+{
+    "id" : 3,
+    "title" : "Software Delvopment",
+    "image" : "https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c29mdHdhcmUlMjBkZXZlbG9wbWVudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "description" : "Software development refers to a set of computer science activities dedicated to the process of creating, designing, deploying and supporting software."
+},
+{
+    "id" : 4,
+    "title" : "Digital Marketing",
+    "image" : "https://images.unsplash.com/photo-1571677246347-5040036b95cc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "description" : "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication."
+},
+{
+    "id" : 5,
+    "title" : "Graphic Designer",
+    "image" : "https://images.unsplash.com/photo-1626785774573-4b799315345d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+    "description" : "The Graphic Designer job description includes the entire process of defining requirements, visualizing and creating graphics including illustrations, logos, layouts and photos."
+},
+{
+    "id" : 6,
+    "title" : "Machine Learning",
+    "image" : "https://images.unsplash.com/photo-1504639725590-34d0984388bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+    "description" : "Machine learning engineers develop self-running AI software to automate predictive models for recommended searches, virtual assistants, translation apps, chatbots, and driverless cars."
+}
+]
